@@ -1,0 +1,21 @@
+div{
+    width: 400px;
+    
+    background-color: rgb(212, 144, 192);
+    padding: 30px 30px 30px 30px;/*Cima, direita, baixo, esquerda*/
+    margin: 60px 40px 40px 40px;/*Cima, direita, baixo, esquerda*/
+    border: 2px solid rgb(163, 4, 99);
+    border-width: 2px;
+    border-style: dashed;
+}
+#container-pai {
+    width: 600px;
+    display: flex;
+}
+
+.visible {
+    visibility: visible;
+}
+.not-visible {
+    visibility: hidden;
+}

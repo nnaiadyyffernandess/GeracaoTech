@@ -1,0 +1,41 @@
+header h1{
+ background-color: gray;
+}
+
+
+.container{
+    width: 80%;
+    height: 800px;
+    padding: 20px;
+    background-color: brown;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container div {
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+}
+.bloco-1 {
+  order: 1;
+}
+.bloco-2 {
+ order: 2;
+}
+    
+.bloco-3 {
+     order: 3;
+}
+
+.bloco-4{
+  order: 4;
+}
+
+.bloco-5 {
+  order: 5;
+}

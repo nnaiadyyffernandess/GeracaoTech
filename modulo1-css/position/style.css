@@ -1,0 +1,41 @@
+main{
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    position: relative;
+     top: 100px; ;
+    right:0;
+    left:100px ;
+    bottom:0 ;
+
+}
+
+section{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(66, 184, 184);
+    position: absolute;
+    top:0 ;
+    left:0 ;
+}
+
+.primeira{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(4, 29, 136);
+    position: absolute;
+
+    right:0;
+    bottom:0 ;
+}
+
+.segunda{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(247, 0, 0);
+    position: absolute;
+    top:0 ;
+    right:0;
+    
+}
+

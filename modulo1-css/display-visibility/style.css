@@ -1,0 +1,29 @@
+main{
+    width: 100%;
+}
+
+h1{
+    background-color: burlywood;
+}
+
+.div1{
+    width:200px ;
+    height: 200px;
+    background-color: black;
+    color: aliceblue;
+    display:inline-block;
+}
+
+.div2{
+    width:200px ;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+.div3{
+    width:200px ;
+    height: 200px;
+    background-color: rgb(3, 3, 74);
+    color: aquamarine;
+}

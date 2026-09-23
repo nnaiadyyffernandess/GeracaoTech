@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+div p { /* parágrafo que está dentro de um div */
+    color: rgb(141, 15, 15);
+    text-decoration: underline;
+    font-family: Oswald, sans-serif;
+    line-height: 20px;
+
+}
+
+
+
+.segundasection >p { 
+    color: rgb(180, 1, 168);
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+.primeirasection >p { 
+    color: rgb(52, 135, 0);
+    font-family: Oswald, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+}

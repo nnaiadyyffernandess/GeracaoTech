@@ -1,0 +1,8 @@
+body {
+    font-size: 10px; /* =1em, mas por padrão 1 em é 16px */
+}
+
+
+p {
+    font-size: 2em;
+}
